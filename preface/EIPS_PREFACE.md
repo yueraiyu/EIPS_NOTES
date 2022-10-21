@@ -126,7 +126,7 @@
     receiver 从消息中提取数据
 ```
 
-![img](..\images\msg_transmit.png)
+![img](../images/msg_transmit.png)
 
 ```wiki
 * send and forget
