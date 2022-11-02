@@ -26,7 +26,7 @@
 
 [Chapter 11: ***System Management***](./System_Management/EIPS_System_Management.md)
 
-[Chapter 12: Interlude System Management Example](./Interlude_System_Management Example/EIPS_Interlude_System_Management_Example.md)
+[Chapter 12: Interlude System Management Example](./Interlude_System_Management_Example/EIPS_Interlude_System_Management_Example.md)
 
 [Chapter 13: Ingration Patterns in Practice](./Ingration_Patterns_in_Practice/EIPS_Ingration_Patterns_in_Practice.md)
 
