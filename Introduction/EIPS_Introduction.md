@@ -126,7 +126,7 @@
     receiver 从消息中提取数据
 ```
 
-![img](..\images\msg_transmit.png)
+![img](https://raw.githubusercontent.com/yueraiyu/note_imgs/master/md_imgs/msg_transmit.png)
 
 ```wiki
 * send and forget
@@ -222,7 +222,7 @@
 
 ##### 7. 关于异步的思考
 
-![image-20221024183040329](../images/sync_or_async.png)
+![image-20221024183040329](https://raw.githubusercontent.com/yueraiyu/note_imgs/master/md_imgs/sync_or_async.png)
 
 ```wiki
 * 同步
@@ -258,5 +258,5 @@
 
 ##### 9. 商业消息系统相关术语对照
 
-![img](../images/eips_map.png)
+![img](https://raw.githubusercontent.com/yueraiyu/note_imgs/master/md_imgs/eips_map.png)
 
